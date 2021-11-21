@@ -1,4 +1,6 @@
-# How to bootstrap the app
+# mini-portfolio
+
+## How to bootstrap the app
 
 clone the repository on your local machine
 
